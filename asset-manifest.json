@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dwpcap/static/css/main.869f7bd7.chunk.css",
-    "main.js": "/dwpcap/static/js/main.28091ab3.chunk.js",
-    "main.js.map": "/dwpcap/static/js/main.28091ab3.chunk.js.map",
+    "main.js": "/dwpcap/static/js/main.9258d49d.chunk.js",
+    "main.js.map": "/dwpcap/static/js/main.9258d49d.chunk.js.map",
     "runtime-main.js": "/dwpcap/static/js/runtime-main.251e9cb1.js",
     "runtime-main.js.map": "/dwpcap/static/js/runtime-main.251e9cb1.js.map",
     "static/css/2.274e5192.chunk.css": "/dwpcap/static/css/2.274e5192.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.274e5192.chunk.css",
     "static/js/2.867755d6.chunk.js",
     "static/css/main.869f7bd7.chunk.css",
-    "static/js/main.28091ab3.chunk.js"
+    "static/js/main.9258d49d.chunk.js"
   ]
 }
